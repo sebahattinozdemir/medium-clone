@@ -1,4 +1,4 @@
-# TYPESCRIPT,SANITY,CMS,REACT,TAILWIND,CSS,ISR,REACT-HOOK-FORM
+# Typescript,Sanity,Cms,React,Tailwindcss,Isr,React-Hook-Form
 
 Fullstack medium-clone
 <br/>
